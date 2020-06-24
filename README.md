@@ -20,6 +20,7 @@ last two lines consist of space separated integers, which are elements of matric
 A and B respectively.
 
 **Output Format** An integer giving the sum of entries of the resultant matrix.
+
 **Remark:** Make sure you print a newline after the final output.
 
 ### Example 1
