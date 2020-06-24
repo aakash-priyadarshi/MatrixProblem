@@ -18,11 +18,12 @@ entries are consecutive elements of a column starting from 1st column. The
 third line contains 0 or 1, indicating min or max operations respectively. The
 last two lines consist of space separated integers, which are elements of matrices
 A and B respectively.
-Output Format An integer giving the sum of entries of the resultant matrix.
-Remark: Make sure you print a newline after the final output.
+
+**Output Format** An integer giving the sum of entries of the resultant matrix.
+**Remark:** Make sure you print a newline after the final output.
 
 ### Example 1
-Input
+**Input**
 
 2
 
@@ -39,7 +40,7 @@ Output
 21
 
 
-Explanation of Example 1 First line says A and B are 2 X 2 matrices.
+**Explanation of Example 1** First line says A and B are 2 X 2 matrices.
 Second line says, the matrices need to be read in row-major form. So, first
 row of the matrix A contains 2 and 2, the second row contains 1 and 1. Similarly
 for the second matrix B. The third line indicates max operation needs to be
@@ -50,7 +51,7 @@ the value 10. In row-major form, C matrix is 4 10 2 5. Sum of these values
 is 21. Hence, the program should output 21.
 
 ### Example 2
-Input
+**Input**
 
 3
 
@@ -60,6 +61,6 @@ C R
 
 5 6 7 8 9 10 1 2 3
 
-Output
+**Output**
 
 648
