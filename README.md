@@ -23,13 +23,19 @@ Remark: Make sure you print a newline after the final output.
 
 ### Example 1
 Input
+
 2
+
 R R
+
 1
+
 2 2 1 1
+
 1 4 2 5
 
 Output
+
 21
 
 
@@ -45,10 +51,15 @@ is 21. Hence, the program should output 21.
 
 ### Example 2
 Input
-3C
-R
-11
-2 3 4 5 6 7 8 9
+
+3
+
+C R
+
+1 2 3 4 5 6 7 8 9
+
 5 6 7 8 9 10 1 2 3
+
 Output
+
 648
