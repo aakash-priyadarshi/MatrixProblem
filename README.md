@@ -21,7 +21,7 @@ A and B respectively.
 Output Format An integer giving the sum of entries of the resultant matrix.
 Remark: Make sure you print a newline after the final output.
 
-##Example 1
+### Example 1
 Input
 2
 R R
@@ -43,7 +43,7 @@ column entry of matrix C, we first perform max operation on 1st row of A and
 the value 10. In row-major form, C matrix is 4 10 2 5. Sum of these values
 is 21. Hence, the program should output 21.
 
-###Example 2
+### Example 2
 Input
 3C
 R
